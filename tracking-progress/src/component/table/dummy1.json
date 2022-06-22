@@ -1,0 +1,1063 @@
+[
+  {
+    "course": {
+      "name": "긍정마인드와인맥만들기",
+      "professional": "김석곤"
+    },
+    "progress": [
+      [
+        {
+          "week": "1",
+          "name": "1-1(인간관계론의 형성과정)",
+          "attendance": "O",
+          "attendanceWeek": "X"
+        },
+        {
+          "name": "1-2(인간관계의 어려움)",
+          "attendance": "O"
+        }
+      ],
+      [
+        {
+          "week": "2",
+          "name": "2-1(자아 개념의 이해)",
+          "attendance": "O",
+          "attendanceWeek": "O"
+        },
+        {
+          "name": "2-2(자아 정체감의 발달과정)",
+          "attendance": "O"
+        }
+      ],
+      [
+        {
+          "week": "3",
+          "name": "3-1(자아분석)",
+          "attendance": "",
+          "attendanceWeek": ""
+        },
+        {
+          "name": "3-2(성격검사-에고그램",
+          "attendance": ""
+        }
+      ],
+      [
+        {
+          "week": "4",
+          "name": "4-1(대인지각)",
+          "attendance": "",
+          "attendanceWeek": ""
+        },
+        {
+          "name": "4-2(호감형성과정)",
+          "attendance": ""
+        }
+      ],
+      [
+        {
+          "week": "5",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "6",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": "O"
+        }
+      ],
+      [
+        {
+          "week": "7",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "8",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "9",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "10",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "11",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "12",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "13",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "14",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "15",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "16",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ]
+    ]
+  },
+  {
+    "course": {
+      "name": "응급처치및건강관리"
+    },
+    "progress": [
+      [
+        {
+          "week": "1",
+          "name": "1-1(인간관계론의 형성과정)",
+          "attendance": "O",
+          "attendanceWeek": "O"
+        },
+        {
+          "name": "1-2(인간관계의 어려움)",
+          "attendance": "O"
+        }
+      ],
+      [
+        {
+          "week": "2",
+          "name": "2-1(자아 개념의 이해)",
+          "attendance": "O",
+          "attendanceWeek": "X"
+        },
+        {
+          "name": "2-2(자아 정체감의 발달과정)",
+          "attendance": "X"
+        }
+      ],
+      [
+        {
+          "week": "3",
+          "name": "3-1(자아분석)",
+          "attendance": "",
+          "attendanceWeek": ""
+        },
+        {
+          "name": "3-2(성격검사-에고그램",
+          "attendance": ""
+        }
+      ],
+      [
+        {
+          "week": "4",
+          "name": "4-1(대인지각)",
+          "attendance": "",
+          "attendanceWeek": ""
+        },
+        {
+          "name": "4-2(호감형성과정)",
+          "attendance": ""
+        }
+      ],
+      [
+        {
+          "week": "5",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "6",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "7",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "8",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "9",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "10",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "11",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "12",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "13",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "14",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "15",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "16",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ]
+    ]
+  },
+  {
+    "course": {
+      "name": "스마트장치SW기초",
+      "professional": "김석곤"
+    },
+    "progress": [
+      [
+        {
+          "week": "1",
+          "name": "1-1(인간관계론의 형성과정)",
+          "attendance": "O",
+          "attendanceWeek": "▲"
+        },
+        {
+          "name": "1-2(인간관계의 어려움)",
+          "attendance": "X"
+        }
+      ],
+      [
+        {
+          "week": "2",
+          "name": "2-1(자아 개념의 이해)",
+          "attendance": "O",
+          "attendanceWeek": "O"
+        },
+        {
+          "name": "2-2(자아 정체감의 발달과정)",
+          "attendance": "O"
+        }
+      ],
+      [
+        {
+          "week": "3",
+          "name": "3-1(자아분석)",
+          "attendance": "",
+          "attendanceWeek": ""
+        },
+        {
+          "name": "3-2(성격검사-에고그램",
+          "attendance": ""
+        }
+      ],
+      [
+        {
+          "week": "4",
+          "name": "4-1(대인지각)",
+          "attendance": "",
+          "attendanceWeek": ""
+        },
+        {
+          "name": "4-2(호감형성과정)",
+          "attendance": ""
+        }
+      ],
+      [
+        {
+          "week": "5",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "6",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "7",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "8",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "9",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "10",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "11",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "12",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "13",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "14",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "15",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "16",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ]
+    ]
+  },
+  {
+    "course": {
+      "name": "시제품제작실습"
+    },
+    "progress": [
+      [
+        {
+          "week": "1",
+          "name": "1-1(인간관계론의 형성과정)",
+          "attendance": "O",
+          "attendanceWeek": "O"
+        },
+        {
+          "name": "1-2(인간관계의 어려움)",
+          "attendance": "O"
+        }
+      ],
+      [
+        {
+          "week": "2",
+          "name": "2-1(자아 개념의 이해)",
+          "attendance": "O",
+          "attendanceWeek": "X"
+        },
+        {
+          "name": "2-2(자아 정체감의 발달과정)",
+          "attendance": "X"
+        }
+      ],
+      [
+        {
+          "week": "3",
+          "name": "3-1(자아분석)",
+          "attendance": "",
+          "attendanceWeek": ""
+        },
+        {
+          "name": "3-2(성격검사-에고그램",
+          "attendance": ""
+        }
+      ],
+      [
+        {
+          "week": "4",
+          "name": "4-1(대인지각)",
+          "attendance": "",
+          "attendanceWeek": ""
+        },
+        {
+          "name": "4-2(호감형성과정)",
+          "attendance": ""
+        }
+      ],
+      [
+        {
+          "week": "5",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "6",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "7",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "8",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "9",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "10",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "11",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "12",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "13",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "14",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "15",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "16",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ]
+    ]
+  },
+  {
+    "course": {
+      "name": "창업과진로",
+      "professional": "김석곤"
+    },
+    "progress": [
+      [
+        {
+          "week": "1",
+          "name": "1-1(인간관계론의 형성과정)",
+          "attendance": "O",
+          "attendanceWeek": "▲"
+        },
+        {
+          "name": "1-2(인간관계의 어려움)",
+          "attendance": "X"
+        }
+      ],
+      [
+        {
+          "week": "2",
+          "name": "2-1(자아 개념의 이해)",
+          "attendance": "O",
+          "attendanceWeek": "O"
+        },
+        {
+          "name": "2-2(자아 정체감의 발달과정)",
+          "attendance": "O"
+        }
+      ],
+      [
+        {
+          "week": "3",
+          "name": "3-1(자아분석)",
+          "attendance": "",
+          "attendanceWeek": ""
+        },
+        {
+          "name": "3-2(성격검사-에고그램",
+          "attendance": ""
+        }
+      ],
+      [
+        {
+          "week": "4",
+          "name": "4-1(대인지각)",
+          "attendance": "",
+          "attendanceWeek": ""
+        },
+        {
+          "name": "4-2(호감형성과정)",
+          "attendance": ""
+        }
+      ],
+      [
+        {
+          "week": "5",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "6",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "7",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "8",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "9",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "10",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "11",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "12",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "13",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "14",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "15",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "16",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ]
+    ]
+  },
+  {
+    "course": {
+      "name": "제어지능SW개발"
+    },
+    "progress": [
+      [
+        {
+          "week": "1",
+          "name": "1-1(인간관계론의 형성과정)",
+          "attendance": "O",
+          "attendanceWeek": "O"
+        },
+        {
+          "name": "1-2(인간관계의 어려움)",
+          "attendance": "O"
+        }
+      ],
+      [
+        {
+          "week": "2",
+          "name": "2-1(자아 개념의 이해)",
+          "attendance": "O",
+          "attendanceWeek": "X"
+        },
+        {
+          "name": "2-2(자아 정체감의 발달과정)",
+          "attendance": "X"
+        }
+      ],
+      [
+        {
+          "week": "3",
+          "name": "3-1(자아분석)",
+          "attendance": "",
+          "attendanceWeek": ""
+        },
+        {
+          "name": "3-2(성격검사-에고그램",
+          "attendance": ""
+        }
+      ],
+      [
+        {
+          "week": "4",
+          "name": "4-1(대인지각)",
+          "attendance": "",
+          "attendanceWeek": ""
+        },
+        {
+          "name": "4-2(호감형성과정)",
+          "attendance": ""
+        }
+      ],
+      [
+        {
+          "week": "5",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "6",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "7",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "8",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "9",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "10",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "11",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "12",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "13",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "14",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "15",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "16",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ]
+    ]
+  },
+  {
+    "course": {
+      "name": "통신회로설계",
+      "professional": "김석곤"
+    },
+    "progress": [
+      [
+        {
+          "week": "1",
+          "name": "1-1(인간관계론의 형성과정)",
+          "attendance": "X",
+          "attendanceWeek": "X"
+        },
+        {
+          "name": "1-2(인간관계의 어려움)",
+          "attendance": "X"
+        }
+      ],
+      [
+        {
+          "week": "2",
+          "name": "2-1(자아 개념의 이해)",
+          "attendance": "O",
+          "attendanceWeek": "O"
+        },
+        {
+          "name": "2-2(자아 정체감의 발달과정)",
+          "attendance": "O"
+        }
+      ],
+      [
+        {
+          "week": "3",
+          "name": "3-1(자아분석)",
+          "attendance": "",
+          "attendanceWeek": ""
+        },
+        {
+          "name": "3-2(성격검사-에고그램",
+          "attendance": ""
+        }
+      ],
+      [
+        {
+          "week": "4",
+          "name": "4-1(대인지각)",
+          "attendance": "",
+          "attendanceWeek": ""
+        },
+        {
+          "name": "4-2(호감형성과정)",
+          "attendance": ""
+        }
+      ],
+      [
+        {
+          "week": "5",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "6",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "7",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "8",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "9",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "10",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "11",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "12",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "13",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "14",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "15",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ],
+      [
+        {
+          "week": "16",
+          "name": "",
+          "attendance": "",
+          "attendanceWeek": ""
+        }
+      ]
+    ]
+  }
+]
